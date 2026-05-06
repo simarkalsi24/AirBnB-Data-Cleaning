@@ -1,0 +1,18 @@
+# Virtual environments
+venv/
+env/
+analysisnew/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Mac files
+.DS_Store
+
+# Large ML files
+*.h5
+*.keras
