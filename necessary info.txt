@@ -1,0 +1,28 @@
+'id', 'name', 'host id', 'host_identity_verified', 
+'host name',
+'neighbourhood group', 'neighbourhood', 
+'lat', 
+'long', 'country',
+'country code', 'instant_bookable', 
+'cancellation_policy', 'room type',
+'construction year', 'price', 
+'service fee', 'minimum nights',
+'number of reviews', 'last review', 
+'reviews per month',
+'review rate number', 
+'calculated host listings count',
+'availability 365', 'house_rules'
+
+541 - duplicated value
+
+Columns with duplicates and their counts:
+{'id': 541, 'name': 41317, 'host id': 542, 'host_identity_verified': 102596, 'host name': 89408, 
+'neighbourhood group': 102591, 'neighbourhood': 102374, 'lat': 80607, 'long': 84824, 'country':
+102597, 'country code': 102597, 'instant_bookable': 102596, 'cancellation_policy': 102595,
+'room type': 102595, 'construction year': 102578, 'price': 101447, 'service fee': 102367,
+'minimum nights': 102445, 'number of reviews': 102122, 'last review': 100121,
+'reviews per month': 101582, 'review rate number': 102593,
+'calculated host listings count': 102520,
+'availability 365': 102160, 'house_rules': 100622}
+
+## 0 null in id , 541 duplictes value in id
